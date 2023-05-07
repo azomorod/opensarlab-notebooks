@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASFOpenSARlab/opensarlab-notebooks/binder_forest_veg_index?labpath=edX_mRFDIvsNDVI.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/azomorod/opensarlab-notebooks/binder_forest_veg_index?labpath=edX_mRFDIvsNDVI.ipynb)
 
 # ASF Jupyter Notebooks
 
